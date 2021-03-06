@@ -1,0 +1,28 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+    margin: 0 auto;
+    padding: 0 2em 1em;
+    width: 650px;
+}
+
+#nav {
+    background-color: lightskyblue;
+    
+     
+}
+li {
+    display:inline;
+    float: left;
+}
+li a {
+    display: block;
+    padding: 20px 25px;
+    background-color:lightskyblue;
+    text-decoration: none;
+    text-align: center;
+}
+
+li a:hover {
+    background-color: orange;
+}
